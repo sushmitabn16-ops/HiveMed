@@ -2928,6 +2928,9 @@ Status: ${a.status}`;
 
             <div className="login-card">
 
+            </div>
+            <div className="login-card">
+
               {!doctorLogged ? (
                 <form
                   onSubmit={(e) => {
